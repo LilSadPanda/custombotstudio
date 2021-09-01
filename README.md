@@ -50,9 +50,9 @@ Last updated: 01.09.2021
 - CustomBot Studio obliged to use Bump Reminder's [Privacy Policy](https://bumpreminder.gitbook.io/privacy-policy) for protecting the users.
 
 ### CustomBot Studio Agrees:
-- Hereby CustomBot Studio gurantee to not make any claims over Bump Reminder and not involve Bump Reminder in CustomBot Studio service. 
+- Hereby CustomBot Studio gurantee to not make any claims over Bump Reminder and not involve Bump Reminder in CustomBot's Studio service. 
 - CustomBot Studio hereby agrees to use the data provided by Bump Reminder with the consent of the user as long as it is needed to operate the CustomBot service.
-- The Service CustomBot Studio provides can be discontinued at any time without CustomBot Studio informing Bump Reminder.
+- The Service CustomBot Studio provides can be discontinued at any time without CustomBot Studio notifing Bump Reminder.
 - Hereby CustomBot Studio agrees to account the same [Privacy Policy](https://bumpreminder.gitbook.io/privacy-policy), which Bump Reminder has.
 
 **[Patner 1: Bump Reminder | Meister#9667](https://discord.gg/dXJPy8m)**
