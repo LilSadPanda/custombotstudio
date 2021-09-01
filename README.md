@@ -26,7 +26,7 @@ Last updated: 01.09.2021
 
 ## Contact:
 - LilSadPanda#9989 | Discord UserID: 395991307081875456
-- [Discord Server]()
+- [Discord Server](https://discord.gg/XqfqtTjpbt)
 
 ## Privacy Policy
 As an agreement from our Partnership Agreement, Bump Reminders Privacy Policy accounts to our Service, which you can [read here](https://bumpreminder.gitbook.io/privacy-policy)
@@ -56,7 +56,7 @@ Last updated: 01.09.2021
 - Hereby CustomBot Studio agrees to account the same [Privacy Policy](https://bumpreminder.gitbook.io/privacy-policy), which Bump Reminder has.
 
 [Patner 1: Bump Reminder | Meister#9667](https://discord.gg/dXJPy8m )
-[Patner 2: Custom Bot Studio | LilSadPanda#9989]()
+[Patner 2: Custom Bot Studio | LilSadPanda#9989](https://discord.gg/XqfqtTjpbt)
 
 Hereby both Partner agrees with the upper Agreement.
 Last updated: 01.09.2021
