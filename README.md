@@ -55,10 +55,11 @@ Last updated: 01.09.2021
 - The Service CustomBot Studio provides can be discontinued at any time without CustomBot Studio informing Bump Reminder.
 - Hereby CustomBot Studio agrees to account the same [Privacy Policy](https://bumpreminder.gitbook.io/privacy-policy), which Bump Reminder has.
 
-[Patner 1: Bump Reminder | Meister#9667](https://discord.gg/dXJPy8m )
-[Patner 2: Custom Bot Studio | LilSadPanda#9989](https://discord.gg/XqfqtTjpbt)
+**[Patner 1: Bump Reminder | Meister#9667](https://discord.gg/dXJPy8m)**
 
-Hereby both Partner agrees with the upper Agreement.
+**[Patner 2: Custom Bot Studio | LilSadPanda#9989](https://discord.gg/XqfqtTjpbt)**
+
+### Hereby both Partner agrees with the upper Agreement.
 Last updated: 01.09.2021
 
 
