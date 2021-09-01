@@ -38,7 +38,7 @@ Last updated: 01.09.2021
 
 ## Patnership Agreement
 
-### This Patnership Agreement should regulate the Cooperate between Bump Reminder and the Service named Custom Bot Studio
+### This Patnership Agreement should regulate the Cooperation between Bump Reminder and the Service from Custom Bot Studio
 - The Partnership does not consist of any mutual interest. 
 - The Partnership can be discontinued at any time.
 - The Requirments given from Bump Reminder has to be respected or the Partnership will be discontinued.
