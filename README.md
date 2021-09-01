@@ -47,7 +47,7 @@ Last updated: 01.09.2021
 - Bump Reminder makes no claims on the CustomBot Studio's Service and does not want to be involved in CustomBot Studio's Service.
 - The Data provided by Bump Reminder can be used as long as its needed for operating the CustomBot Studio Service and under the consent of the users.
 - Bump Reminder doesn't need to be informed, when CustomBot Studio's discontinue there Service.
-- CustomBot Studio obliged to use our [Privacy Policy](https://bumpreminder.gitbook.io/privacy-policy) for protecting your user.
+- CustomBot Studio obliged to use Bump Reminder's [Privacy Policy](https://bumpreminder.gitbook.io/privacy-policy) for protecting the users.
 
 ### CustomBot Studio Agrees:
 - Hereby CustomBot Studio gurantee to not make any claims over Bump Reminder and not involve Bump Reminder in CustomBot Studio service. 
